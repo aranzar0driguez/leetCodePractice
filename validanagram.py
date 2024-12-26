@@ -27,7 +27,8 @@ class Solution(object):
 
         """
         For this solution, you could also do from Collections import Counter 
-        and then use the Counter(array) function to return back a dictionary
+        and then use the Counter(array) function to return back a dictionary!
+        
         :type s: str
         :type t: str
         :rtype: bool
