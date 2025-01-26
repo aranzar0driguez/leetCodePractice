@@ -1,6 +1,7 @@
 #Creates two pointers, one that tracks the num of unique values and 
 #another one that tracks current element in array to compare uniqueness 
 
+
 class Solution(object):
     def removeDuplicates(self, nums):
         """
